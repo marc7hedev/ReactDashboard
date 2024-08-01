@@ -64,7 +64,7 @@ const chartdata = [
   },
 ];
 
-const valueFormatter = function (number) {
+const valueFormatter = function (number: number) {
   return '$ ' + new Intl.NumberFormat('us').format(number).toString();
 };
 

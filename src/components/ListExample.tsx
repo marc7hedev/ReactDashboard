@@ -25,7 +25,7 @@ export function ListUsageExample() {
   ];
   return (
     <Card className="mx-auto w-full">
-      <h3 className="text-tremor-content-strong dark:text-dark-tremor-content-strong font-medium">Tremor's Hometowns</h3>
+      <h3 className="text-tremor-content-strong dark:text-dark-tremor-content-strong font-medium">Tremors Hometowns</h3>
       <List className="mt-2">
         {cities.map((item) => (
           <ListItem key={item.city}>

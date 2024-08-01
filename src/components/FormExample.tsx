@@ -10,7 +10,7 @@ export default function FormExample() {
           Register to workspace
         </h3>
         <p className="mt-1 text-tremor-default leading-6 text-tremor-content dark:text-dark-tremor-content">
-          Take a few moments to register for your company's workspace
+          Take a few moments to register for your companys workspace
         </p>
         <form action="#" method="post" className="mt-8">
           <div className="grid grid-cols-1 gap-x-4 gap-y-6 sm:grid-cols-6">
