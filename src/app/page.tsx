@@ -12,11 +12,11 @@ function page(){
     <div className="container mx-auto pt-10">
 
       <div className="grid grid-cols-4 gap-2">
-        <div className="col-span-2 grid grid-cols-2">
+        <div className="col-span-2 grid grid-cols-2 gap-4 px-7">
           <CardUsageExample />
           <CardUsageExample />
         </div>
-        <div className="col-span-2">
+        <div className="col-span-2 px-7">
           <Card>
             <DonutChartExample />
           </Card>

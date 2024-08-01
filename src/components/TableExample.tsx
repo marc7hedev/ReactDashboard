@@ -59,11 +59,12 @@ const data = [
   },
 ];
 
+
 export function TableExample() {
   return (
     <Card>
       <h3 className="text-tremor-content-strong dark:text-dark-tremor-content-strong font-semibold">List of Swiss Federal Councillours</h3>
-      <Table className="mt-5">
+      <Table className="mt-5 overflow-x-auto hide-scrollbar">
         <TableHead>
           <TableRow>
             <TableHeaderCell>Name</TableHeaderCell>
