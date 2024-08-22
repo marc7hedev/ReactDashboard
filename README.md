@@ -4,6 +4,7 @@
 Este es un proyecto demostrativo de un **dashboard** creado con **React**, **Tailwind CSS**, y la librería **Tremor**. Aunque es sencillo, sirve como base para integrarse en proyectos más grandes que necesiten visualizar datos de manera estructurada.
 
 🔧 **Tecnologías Utilizadas**  
+- **Typescript**: Mejores para Js.
 - **React**: Framework de JavaScript para construir interfaces de usuario.
 - **Tailwind CSS**: Framework de CSS para estilización rápida y eficiente.
 - **Tremor**: Librería para construir dashboards y visualizar datos de forma efectiva.
